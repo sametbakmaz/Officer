@@ -4,6 +4,7 @@
 //
 //  Created by Abdulsamet Bakmaz on 14.10.2022.
 //  Release
+//  Hotfix yapıldı maine mergele
 
 import UIKit
 
