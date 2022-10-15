@@ -1,0 +1,4 @@
+BACKEND_URL = https:\/\/www.mobven.com\/dev
+BUNDLE_ID = com.sametbakmaz.officer\dev
+APP_NAME = Offidev
+SHOW_VERSION = YES

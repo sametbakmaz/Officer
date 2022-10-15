@@ -11,7 +11,14 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+
+        let showVersion = (Bundle.main.infoDictionary?["SHOW_VERSION = YES"] as? String) == "YES"
+        
+        if showVersion {
+            //TODO: show version label
+        }else {
+            //hide
+        }
     }
 
 

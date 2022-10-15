@@ -1,0 +1,4 @@
+BACKEND_URL = https:\/\/www.mobven.com\/
+BUNDLE_ID = com.sametbakmaz.officer
+APP_NAME = Officer
+SHOW_VERSION = NO
