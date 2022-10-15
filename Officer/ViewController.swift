@@ -3,7 +3,15 @@
 //  Officer
 //
 //  Created by Abdulsamet Bakmaz on 14.10.2022.
+<<<<<<< HEAD
 //  Release
+=======
+
+//  Feature branche geçildi geliştirmeler yapıldı
+//  Feature branchi developa mergle.
+
+
+>>>>>>> develop
 
 import UIKit
 
