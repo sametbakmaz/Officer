@@ -4,7 +4,7 @@
 //
 //  Created by Abdulsamet Bakmaz on 14.10.2022.
 //  Feature branche geçildi geliştirmeler yapıldı
-//  Feature branchi developa mergle .
+//  Feature branchi developa mergle.
 
 import UIKit
 
